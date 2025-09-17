@@ -11,4 +11,4 @@ I completely agree with your take on the article—it’s a refreshing perspecti
 
 I especially like the distinction it makes between mentorship and sponsorship. Mentorship teaches skills, but sponsorship actively advocates for someone’s recognition and growth within the organization, which is crucial for both individual and structural success. It reframes senior engineers not just as technical experts but as leaders who elevate others and strengthen the team.
 
-It’s a good reminder that career longevity and influence in tech come from a combination of technical proficiency and the ability to positively shape the people and processes around you.
+It’s a good reminder that career longevity and influence in tech come from a combination of technical proficiency and the ability to positively shape the people and processes around you. Thanks!
