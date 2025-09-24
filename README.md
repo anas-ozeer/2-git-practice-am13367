@@ -15,3 +15,4 @@ I especially like the distinction it makes between mentorship and sponsorship. M
 
 It’s a good reminder that career longevity and influence in tech come from a combination of technical proficiency and the ability to positively shape the people and processes around you. Thanks!
 
+## Commitment Issues
